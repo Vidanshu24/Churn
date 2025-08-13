@@ -35,13 +35,13 @@ This project predicts customer churn using machine learning. It includes data ex
 
 ## Technologies
 
--Python 3
--pandas
--numpy
--scikit-learn
--matplotlib
--seaborn
--Jupyter Notebook
+- Python 3
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- Jupyter Notebook
 - Power Bi
 
 ---
