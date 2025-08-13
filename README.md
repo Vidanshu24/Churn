@@ -27,9 +27,9 @@ This project predicts customer churn using machine learning. It includes data ex
 |---------------------------|---------------------------------------------------------------------------|
 | `notebook/`               | Jupyter notebooks for analysis & modeling                                 |
 | `churn dashboard.docx`    | Word document containing screenshots of dashboards and key visualizations |
-| `power_bi_dashboard.pbix` | Power BI dashboard file for interactive insights                          |
 | `dataset_link.txt`        | Dataset source link                                                       |
 | `Questions.txt`           | List of business questions addressed                                      |
+| `power_bi_dashboard.pbix` | Power BI dashboard file for interactive insights                          |
 
 ---
 
